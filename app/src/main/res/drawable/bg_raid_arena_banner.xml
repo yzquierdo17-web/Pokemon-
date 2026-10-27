@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="800dp"
+    android:height="360dp"
+    android:viewportWidth="800"
+    android:viewportHeight="360">
+    <!-- Deep Cyber-Stadium Night Background -->
+    <path android:pathData="M0,0h800v360h-800z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="800"
+                android:endY="360"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#090D1A" />
+                <item android:offset="0.5" android:color="#131C38" />
+                <item android:offset="1.0" android:color="#23113A" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Tactical Arena Grid Perspective Lines -->
+    <path
+        android:pathData="M0,260 L800,260 M0,300 L800,300 M0,340 L800,340 M100,220 L0,360 M250,220 L140,360 M400,220 L400,360 M550,220 L660,360 M700,220 L800,360"
+        android:strokeColor="#2800E5FF"
+        android:strokeWidth="2" />
+    <!-- Cyan Radar Concentric Rings Left -->
+    <path
+        android:pathData="M650,150 m-110,0 a110,110 0 1,0 220,0 a110,110 0 1,0 -220,0"
+        android:strokeColor="#3300E5FF"
+        android:strokeWidth="3"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M650,150 m-70,0 a70,70 0 1,0 140,0 a70,70 0 1,0 -140,0"
+        android:strokeColor="#55FF2E54"
+        android:strokeWidth="2.5"
+        android:fillColor="#15FF2E54" />
+    <!-- Energy Clash Diagonal Beams -->
+    <path
+        android:pathData="M460,360 L720,0 L770,0 L520,360 Z"
+        android:fillColor="#1800E5FF" />
+    <path
+        android:pathData="M560,360 L790,30 L800,90 L610,360 Z"
+        android:fillColor="#22FF2E54" />
+    <!-- Center Emblem Silhouette -->
+    <path
+        android:pathData="M650,95 L698,115 L698,158 C698,190 676,214 650,225 C624,214 602,190 602,158 L602,115 Z"
+        android:strokeColor="#8800E5FF"
+        android:strokeWidth="3"
+        android:fillColor="#2200E5FF" />
+    <path
+        android:pathData="M656,110 L634,152 L649,152 L641,198 L671,148 L654,148 Z"
+        android:fillColor="#CCFFD600" />
+</vector>

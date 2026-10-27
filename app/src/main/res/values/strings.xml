@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RaidPulse GO</string>
+    <string name="nav_analyzer">Counter Lab</string>
+    <string name="nav_raids">Raid Hub</string>
+    <string name="nav_meta">Meta Tiers</string>
+    <string name="nav_dex">Type &amp; Squads</string>
+
+    <string name="analyzer_title">Opposing Team &amp; Weakness Lab</string>
+    <string name="analyzer_subtitle">Select up to 3 opposing Pokémon to compute shared vulnerabilities &amp; optimal meta counters</string>
+    <string name="preset_lineups_label">Quick Opposing Meta Lineups</string>
+    <string name="clear_team">Clear Team</string>
+    <string name="save_counter_squad">Save Counter Squad</string>
+    <string name="add_opponent_slot">Tap to Add Opponent</string>
+    <string name="team_weakness_radar">Opposing Team Vulnerability Breakdown</string>
+    <string name="recommended_counters_title">Top Recommended Counter Pokémon</string>
+
+    <string name="raid_hub_title">Raid Boss Counter Simulator</string>
+    <string name="raid_hub_subtitle">Real-time TTW, DPS/TDO, weather boost &amp; 100% IV catch CP calculator</string>
+    <string name="weather_boost_label">Weather Boost (+20%)</string>
+    <string name="include_shadows">Shadow (+20% ATK)</string>
+    <string name="include_megas">Mega / Primal</string>
+    <string name="catch_cp_lv20">Lv20 Hundo CP</string>
+    <string name="catch_cp_lv25">Lv25 Weather CP</string>
+    <string name="min_trainers_label">Est. Trainers</string>
+
+    <string name="meta_rankings_title">GO Battle League Meta Rankings</string>
+    <string name="meta_rankings_subtitle">Live PvP &amp; PvE tier list, optimal movesets, IV spreads &amp; key matchups</string>
+    <string name="search_pokemon_hint">Search Pokémon, type, or move (or fetch live via PokéAPI)…</string>
+    <string name="fetch_pokeapi_button">Live PokéAPI Lookup</string>
+
+    <string name="type_chart_title">Dual-Type Matrix &amp; Saved Squads</string>
+    <string name="type_chart_subtitle">Pokémon GO exact damage multipliers (2.56x / 1.6x / 0.625x / 0.391x)</string>
+    <string name="saved_squads_header">Saved Battle &amp; Raid Squads</string>
+    <string name="empty_saved_squads">No saved squads yet. Analyze an opposing team or Raid Boss and tap "Save Counter Squad" to store your lineup.</string>
+</resources>

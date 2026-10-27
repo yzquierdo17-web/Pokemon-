@@ -1,0 +1,6 @@
+{
+  "name": "RaidPulse GO",
+  "description": "Pokémon GO battle strategy, opposing team weakness analyzer, raid boss counter simulator, and live PvP/PvE meta rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
